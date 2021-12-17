@@ -1,6 +1,6 @@
 ### Hi there 👋
 - My name is emily lin!
-- I'm a 2B software engineering student at the University of Waterloo, searching for a Summer 2022 coop opportunity.
+- I'm a 2B software engineering student at the University of Waterloo searching for a Summer 2022 coop opportunity.
 - Feel free to email me [here](emilyylin@outlook.com), or connect with me on Linkedin [here](https://www.linkedin.com/in/emilyshuyanlin/). 
 <!--
 **emilyylin/emilyylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
